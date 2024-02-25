@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541013877955",
+    "project_id": "seeker-49581",
+    "storage_bucket": "seeker-49581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541013877955:android:2c1385591fb3557f13ee76",
+        "android_client_info": {
+          "package_name": "com.example.seeker_ng"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvMF2ADjOl-KDnkRDGGLuXGsXf8Y9oUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

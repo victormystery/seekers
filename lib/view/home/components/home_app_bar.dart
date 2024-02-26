@@ -97,7 +97,7 @@ class GuestAppBar extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           CommonHelper().titleCommon("Hello! 👋", color: cc.black3),
-          CommonHelper().titleCommon("Welcome to Qixer", color: cc.black3),
+          CommonHelper().titleCommon("Welcome to Seekers.Ng", color: cc.black3),
         ],
       ),
     );

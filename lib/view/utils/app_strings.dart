@@ -445,7 +445,7 @@ var appStrings = {
   "Payment cancelled!": "Payment cancelled!",
   "Payment has been expired.": "Payment has been expired.",
   "Payment has been cancelled.": "Payment has been cancelled.",
-  "Welcome to Qixer": "Welcome to Qixer",
+  "Welcome to Seekers.Ng": "Welcome to Seekers.Ng",
   "Hello! 👋": "Hello! 👋",
   "You'll have to login/register to edit or see your profile info.":
       "You'll have to login/register to edit or see your profile info.",
